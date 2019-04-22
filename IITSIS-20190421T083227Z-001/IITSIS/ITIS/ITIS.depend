@@ -1,0 +1,99 @@
+# depslib dependency file v1.0
+1553287372 source:g:\knowledge\bachelors\project\itis\itis\sum.c
+	<stdio.h>
+
+1553443952 source:g:\knowledge\bachelors\project\itis\itis\main.c
+	"menu.h"
+
+1555356697 g:\knowledge\bachelors\project\itis\itis\menu.h
+
+1555356697 source:g:\knowledge\bachelors\project\itis\itis\menu.c
+	<stdio.h>
+
+1553636034 source:g:\knowledge\bachelors\project\itis\itis\indsearch.c
+	<stdio.h>
+
+1553802551 source:g:\knowledge\bachelors\project\itis\itis\getinfo.c
+	<stdio.h>
+
+1555357447 source:g:\knowledge\bachelors\project\itis\itis\enterinfo.c
+	<stdio.h>
+
+1555357455 source:g:\knowledge\bachelors\project\itis\itis\enterresult.c
+	<string.h>
+	<stdio.h>
+
+1555356928 source:g:\knowledge\bachelors\project\itis\itis\individualsearch.c
+	<stdio.h>
+	<string.h>
+
+1555267435 source:g:\knowledge\bachelors\project\itis\itis\cgpa.c
+
+1555180255 g:\knowledge\bachelors\project\itis\itis\cgpa.h
+	"Individualsearch.h"
+
+1555179027 g:\knowledge\bachelors\project\itis\itis\individualsearch.h
+
+1555179027 source:g:\knowledge\bachelors\project\itis\itis\individualsearch.h
+
+1555356928 source:g:\knowledge\bachelors\project\itis\itis\batchsearch.c
+	<stdio.h>
+
+1555562676 source:c:\users\sakib\downloads\iitsis\itis\batchsearch.c
+	<stdio.h>
+
+1555561640 source:c:\users\sakib\downloads\iitsis\itis\cgpa.c
+
+1555562417 source:c:\users\sakib\downloads\iitsis\itis\enterinfo.c
+	<stdio.h>
+
+1555562937 source:c:\users\sakib\downloads\iitsis\itis\enterresult.c
+	<string.h>
+	<stdio.h>
+
+1555563142 source:c:\users\sakib\downloads\iitsis\itis\individualsearch.c
+	<stdio.h>
+	<string.h>
+
+1555561640 source:c:\users\sakib\downloads\iitsis\itis\main.c
+	"menu.h"
+
+1555561637 c:\users\sakib\downloads\iitsis\itis\menu.h
+
+1555563044 source:c:\users\sakib\downloads\iitsis\itis\menu.c
+	<stdio.h>
+	"menu.h"
+
+1555871238 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\batchsearch.c
+	<stdio.h>
+	"menu.h"
+
+1555870265 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\cgpa.c
+
+1555868038 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\enterinfo.c
+	<stdio.h>
+	"menu.h"
+
+1555879692 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\enterresult.c
+	<string.h>
+	<stdio.h>
+	"menu.h"
+
+1555871049 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\individualsearch.c
+	<stdio.h>
+	<string.h>
+	"menu.h"
+
+1555534708 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\main.c
+	"menu.h"
+
+1555861283 c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\menu.h
+
+1555868098 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\menu.c
+	<stdio.h>
+	"menu.h"
+
+1555879692 source:c:\users\a\desktop\iitsis-20190421t083227z-001\iitsis\itis\updatecgpa.c
+	<stdio.h>
+	"menu.h"
+
